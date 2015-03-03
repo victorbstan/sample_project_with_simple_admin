@@ -1,28 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample application that makes use of SimpleAdmin Rails Engine (gem) and is intended for demonstration purposes only.
 
-Things you may want to cover:
+Clone this application and run `rails s`. Take a look at what it does; go to `/admin/` path to see SimpleAdmin in action.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Take a look at the `/config/initializers/simple_admin.rb` for configuration example.
