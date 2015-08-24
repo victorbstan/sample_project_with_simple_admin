@@ -1,4 +1,4 @@
-require "demo_extension.rb" # if you have en extension you want to add
+require "demo_extension.rb" # if you have an extension you want to add
 
 # Sample setup for SimpleAdmin
 SimpleAdmin.setup do |setup|
